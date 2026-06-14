@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/historias-en-el-muelle-viejo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Historias en el muelle viejo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-en-el-muelle-viejo/) |
+| **Get License** | [Music Rights & Licensing for Historias en el muelle viejo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-en-el-muelle-viejo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, you the only one that's catching my eye
+> The way you moving your waist got me touching the sky
+> I got the key to the suite, tell your friends goodbye
+> We about to turn the spark to a fire tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
