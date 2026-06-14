@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Historias en el muelle viejo
+
+This log tracks the cryptographic history and versioning for the song **Historias en el muelle viejo** (historias-en-el-muelle-viejo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:09:38.847869 | `v1` | `edf7a5852efa558865557459afc0d84db0d9ac9abc208f0fe239f1f01cc1479f` | `a78693db2b105f6d80b7b606c099160394ab6bfe8c7ad72f8f661753d2876f79` | `2026-06-14_historias-en-el-muelle-viejo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
